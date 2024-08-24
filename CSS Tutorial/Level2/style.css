@@ -1,0 +1,18 @@
+div{
+    height: 20px;
+    width: 130px;
+    background-color: rgb(14, 226, 191);
+    border-width: 5px;
+    border-color: red;
+    border-style: double;
+}
+h1{
+    height: 40px;
+    width: 120px;
+    background-color: rgb(152, 18, 156);
+    /*border-width: 5px;
+    border-color: rgb(2, 0, 0);
+    border-style: dotted;*/
+    border:10px double white;
+    text-align: center;
+}

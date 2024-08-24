@@ -1,0 +1,18 @@
+#outer{
+    height: 500px;
+    width: 150px;
+    background-color: rgb(190, 179, 179);
+    border-style: dotted;
+    border-color: black;
+    border-radius: 2%;
+}
+div{
+    height: 90px;
+    width: 100px;
+    background-color: pink;
+    border-radius: 20%;
+    border-style: double;
+    border-color: white;
+    margin: 25px;
+    
+}

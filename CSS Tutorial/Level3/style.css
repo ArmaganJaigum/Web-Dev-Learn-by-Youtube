@@ -1,0 +1,15 @@
+#box1{
+    height: 100px;
+    width: 200px;
+    background-color: red;
+    font-size: 20px;
+}
+#box2{
+    height: 50px;
+    width: 50%;
+    background-color: black;
+    color: white;
+    margin-left: 25%;
+    font-size: 2em;
+   
+}

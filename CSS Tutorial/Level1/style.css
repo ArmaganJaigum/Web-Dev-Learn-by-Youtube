@@ -1,0 +1,29 @@
+/* h1 {
+    color: tomato;
+}
+
+p{
+    color: rgb(245, 228, 0);
+}
+button{
+    color: rgb(247, 247, 247);
+    background-color: #891652;
+}
+body {
+    background-color:#240A34;
+} */
+* {
+     color: red; 
+
+}
+
+#headingOne {
+    color: black; 
+    background-color: red;
+}
+#headingTwo {
+    color: violet;
+}
+.Myclass {
+    color: black;
+}

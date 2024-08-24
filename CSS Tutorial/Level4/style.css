@@ -1,0 +1,38 @@
+body{
+    text-align: center;
+}
+div {
+    height: 80px;
+    width: 200px;
+    display: inline-block;
+    border: 2px solid black;
+}
+#container{
+    width: 600px;
+    height: 200px;
+    display: flex;
+    flex-direction: row;
+    /* flex-direction: column-reverse; */
+    justify-content: center;
+    /* flex-wrap: wrap; */
+    align-items: flex-start;
+}
+#box1{
+    background-color: aqua;
+}
+#box2{
+    background-color: pink;
+    height: 90px;
+    flex-grow: 2;
+}
+#box3{
+    background-color: green;
+    height: 70px;
+}
+#box4{
+    background-color: orange;
+    height: 40px;
+}
+#box5 {
+    background-color: yellow;
+}
